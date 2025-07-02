@@ -1,5 +1,5 @@
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jghosh2020/jghosh2020.github.io/blob/main/images/Azure_OpenAI.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="https://jghosh2020.github.io/images/Azure_OpenAI.jpg">
 </picture>
 
 ```
